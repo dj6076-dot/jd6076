@@ -1,4 +1,4 @@
-public class OOPSApp {
+class OOPSApp {
     public static String[] getOPattern() {
         return new String[] {
             "  *****  ",
